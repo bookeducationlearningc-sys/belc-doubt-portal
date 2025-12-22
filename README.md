@@ -12,7 +12,7 @@ Book Education Learning Classes (BELC)
 
 ---
 
-### 📘 About This Portal
+###  About This Portal
 
 This is the **official BELC Student Doubt Portal** for Class 9 and Class 10 students.
 
@@ -22,7 +22,7 @@ This is the **official BELC Student Doubt Portal** for Class 9 and Class 10 stud
 - Images of questions are allowed
 - BELC teachers reply and mark **verified answers**
 
-### 🧑‍🏫 Moderation
+###  Moderation
 Only BELC teachers and admins can:
 - Mark answers as verified
 - Post announcements

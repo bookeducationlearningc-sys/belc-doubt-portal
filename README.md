@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="belc-logo.png" alt="BELC Logo" width="180">
+  <img src="belclogo.png" alt="BELC Logo" width="180">
 </p>
 
 <h1 align="center">BELC Student Doubt Portal</h1>
